@@ -1,4 +1,4 @@
-## Actividad 4: Migración a Single Page Application (SPA)
+## Actividad 4: Reestructuración del sitio en React (SPA)
 Estudiante: Jhonatan Alvarez Gamez  
 Código: 1000272498  
 Asignatura: Desarrollo Web  
