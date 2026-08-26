@@ -22,3 +22,6 @@ Para correr este proyecto en un entorno local, asegúrate de tener [Node.js](htt
    ```bash
    git clone https://github.com/joalvarez169/ecoconnect-react.git
    cd ecoconnect-react
+
+2. **Visualización despliegue:**
+   https://ecoconnect-react.vercel.app/
