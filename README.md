@@ -20,5 +20,5 @@ Para correr este proyecto en un entorno local, asegúrate de tener [Node.js](htt
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [aqui incluire el link cuando despliegue]
+   git clone https://github.com/joalvarez169/ecoconnect-react.git
    cd ecoconnect-react
